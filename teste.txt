@@ -1,3 +1,4 @@
 teste 
 edit pela web
-alterado pelo local
+alterado remotamente(local)
+
